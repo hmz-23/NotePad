@@ -1,7 +1,7 @@
 # Notepad
 
 ## Create & store your notes for later purposes.
-## Features:
+### Features:
 * User can create a note
 * User csan edit a note
 * User can delete a note
